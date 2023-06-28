@@ -1,5 +1,4 @@
-a = 'Shehryar'
-b = 'Gill'
-
-full_name = a + b
-print(full_name)
+a = 10
+b = 20
+add = a + b
+print(add)
